@@ -1,43 +1,37 @@
 # Udacity-Programming-For-Data-Science-With-Python-Nanodegree
-<img src="Certificate/Temp/temp.jpg" width="1000">
 
-## Created by Bal Yogesh Surath
+## Created by <strong>Aparajita Srinivasan
 
 This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
 
 
+
 ## Project 1 : Investigate a Relational Database
-[Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-1%20SQL)
 
-### Overview:
+### <em>Overview:
 
-This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
+This project required the student to explore a database of available movie rentals, execute SQL queries against it, and create visualizations to display the results of their queries. 
 
-For the presentation component, the student had to create four slides, and each should have 
-* A question of interest.
-* A supporting SQL query needed to answer the question.
-* A supporting visualization created using the final data of the SQL queries that answer the questions of interest.
-* A small summary on each slide.
+The student had to make four slides for the presentation portion, and each slide had to feature
+ 
+ * Movie categories that are being watched
+ * Number of rental orders for each store per month
+ * Top 10 paying customers
+ * Running total amount paid on film rental on each month
 
 
 ## Project 2 : Explore US Bikeshare Data
-[Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-2%20Python)
 
-### Overview:
+### <em>Overview:
+You will use Python in this project to investigate data pertaining to bike share programs in three significant American cities: Chicago, New York City, and Washington. You will create the code to import the data and use descriptive statistics to answer intriguing questions about it. To provide these statistics interactively in the terminal, you will also construct a script that accepts raw input.
 
-In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
-
-The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
-
+The created CLI software enables the user to search a database for the US bikeshare system and extract statistics data from the database. In order to display statistics information linked to a certain subset of data, the user can filter the information by city, month, and weekday. 
 
 ## Project 3 : Post your Work on GitHub
-[Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-3%20GitHub)
 
-### Overview:
+### <em>Overview:
 
-This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+This project involved refactoring Project 2 utilizing Git, GitHub, and a simulated workflow.
 
-The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+The Project Submission was a template that was filled up with all the Git commands necessary to complete the desired tasks.
 
-# My Certificate of Completion :tada:
-<img src="Certificate/Certificate.jpg" width="1000">
