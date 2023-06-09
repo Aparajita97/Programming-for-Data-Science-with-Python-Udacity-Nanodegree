@@ -1,6 +1,6 @@
-# <strong>Udacity-Programming-For-Data-Science-With-Python-Nanodegree
+# <strong>Udacity-Programming-For-Data-Science-With-Python-Nanodegree</strong>
 
-## Created by <strong>Aparajita Srinivasan
+## Created by <strong>Aparajita Srinivasan</strong>
 
 This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
 
